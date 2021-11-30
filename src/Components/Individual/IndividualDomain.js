@@ -48,7 +48,7 @@ function IndividualDomain() {
   const options = {
       rotations: 3,
       rotationAngles: [0, 0],
-      fontSizes: [10, 60],
+      fontSizes: [10, 40],
     };
     
   if(value !== null){

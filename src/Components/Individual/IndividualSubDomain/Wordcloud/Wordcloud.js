@@ -15,7 +15,7 @@ const callbacks = {
 const options = {
     rotations: 3,
     rotationAngles: [0, 0],
-    fontSizes: [10, 60],
+    fontSizes: [10, 40],
   };
 
 
