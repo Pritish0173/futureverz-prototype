@@ -39,7 +39,7 @@ function IndividualDomain() {
   const callbacks = {
     getWordColor: (word) => (word.value > 40 ? "orange" : "purple"),
     getWordTooltip: (word) =>
-      `The subdomain "${word.text}" is accelerating by ${word.value}.`,
+      `The domain "${word.text}" is accelerating by ${word.value}.`,
     onWordClick: getCallback("onWordClick"),
     onWordMouseOut: getCallback("onWordMouseOut"),
     onWordMouseOver: getCallback("onWordMouseOver")
