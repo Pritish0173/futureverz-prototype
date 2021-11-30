@@ -1,0 +1,117 @@
+[
+  {
+      "value": 18,
+      "domain": "medicine",
+      "text": "Chemistry"
+  },
+  {
+      "value": 20,
+      "domain": "medicine",
+      "text": "Psychology"
+  },
+  {
+      "value": 15,
+      "domain": "medicine",
+      "text": "MEDLINE"
+  },
+  {
+      "value": 21,
+      "domain": "medicine",
+      "text": "Computer science"
+  },
+  {
+      "value": 8,
+      "domain": "medicine",
+      "text": "Precision medicine"
+  },
+  {
+      "value": 16,
+      "domain": "medicine",
+      "text": "Traditional Chinese medicine"
+  },
+  {
+      "value": 12,
+      "domain": "medicine",
+      "text": "Clinical trial"
+  },
+  {
+      "value": 28,
+      "domain": "medicine",
+      "text": "Business"
+  },
+  {
+      "value": 9,
+      "domain": "medicine",
+      "text": "Psychological intervention"
+  },
+  {
+      "value": 13,
+      "domain": "computer science",
+      "text": "Process (engineering)"
+  },
+  {
+      "value": 12,
+      "domain": "computer science",
+      "text": "Work (electrical)"
+  },
+  {
+      "value": 13,
+      "domain": "biology",
+      "text": "Chemistry"
+  },
+  {
+      "value": 3,
+      "domain": "biology",
+      "text": "Genome"
+  },
+  {
+      "value": 15,
+      "domain": "material science",
+      "text": "Psychology"
+  },
+  {
+      "value": 12,
+      "domain": "material science",
+      "text": "Mathematics education"
+  },
+  {
+      "value": 18,
+      "domain": "material science",
+      "text": "Political science"
+  },
+  {
+      "value": 15,
+      "domain": "material science",
+      "text": "Process (engineering)"
+  },
+  {
+      "value": 12,
+      "domain": "material science",
+      "text": "Test (assessment)"
+  },
+  {
+      "value": 7,
+      "domain": "material science",
+      "text": "Optoelectronics"
+  },
+  {
+      "value": 24,
+      "domain": "material science",
+      "text": "Business"
+  },
+  {
+      "value": 8,
+      "domain": "material science",
+      "text": "Work (electrical)"
+  },
+  {
+      "value": 13,
+      "domain": "material science",
+      "text": "Family medicine"
+  },
+  {
+      "value": 13,
+      "domain": "material science",
+      "text": "Environmental science"
+  }
+]

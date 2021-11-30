@@ -1,24 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+import Appbar from './Components/Appbar/Appbar';
+import IndividualDomain from './Components/Individual/IndividualDomain';
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Appbar user='John'/>
+      <div className='content'>
+        <IndividualDomain />      
+      </div>
+      
     </div>
+
   );
 }
 
